@@ -11,4 +11,5 @@ Student | Yuka |  |
 Student | Sara |  |  
 Student | Henrieke | Germany | Consultant 
 Student | Parvin |  |  
+Student | Kasia | Poland |  Project Manager
 Student | Elena | Romania | Education Specialist  
