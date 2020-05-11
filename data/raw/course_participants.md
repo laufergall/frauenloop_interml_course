@@ -9,6 +9,6 @@ Mentor | Laura | Spain | Data Scientist
 Mentor | Sam | USA | Data Scientist
 Student | Yuka |  |  
 Student | Sara |  |  
-Student | Henrieke |  |  
+Student | Henrieke | Germany | Consultant 
 Student | Parvin |  |  
 Student | Elena | Romania | Education Specialist  
