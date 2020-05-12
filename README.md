@@ -40,7 +40,7 @@ git push -u origin branch_name
 
 7. Create a pull request
 
-8. Review, approve, and merge another participant's pull request into the master brancg
+8. Review, approve, and merge another participant's pull request into the master branch
 
 9. Pull to update your local master branch
 
