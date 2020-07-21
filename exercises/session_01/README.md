@@ -22,7 +22,7 @@ git checkout -b branch_name
 
 ```bash
 git add data/raw/course_participants.md
-git commit -m "Add Laura participant data"
+git commit -m "data_manipulation"
 ```
 
 6. Push your branch
